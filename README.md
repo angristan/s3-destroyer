@@ -23,5 +23,5 @@ Iteratively calls `ListObjects`, add objects keys to a buffer and calls `DeleteO
 
 ## TODO
 
-- [] Support for whole account wipe
-- [] Handle rate limiting
+- [ ] Support for whole account wipe
+- [ ] Handle rate limiting
